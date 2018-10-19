@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IMBranding</string>
+    <string name="homepage_activity_label">Homepage</string>
+    <string name="homepage_activity_user_welcome">Welcome</string>
+
+    <!-- Strings related to login & homepage activity -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login_button">Login</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="action_register">Register</string>
+    <string name="company_text">Company</string>
+    <string name="model_text">Model</string>
+    <string name="country_text">Country</string>
+    <string name="state_text">State</string>
+    <string name="city_text">City</string>
+</resources>
